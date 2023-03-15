@@ -1,10 +1,10 @@
 [
   {
-    "package": "gmapsdistance",
+    "package": "RCzechia",
     "oncran": true
   },
   {
-    "package": "RCzechia",
+    "package": "gmapsdistance",
     "oncran": true
   }
 ]
