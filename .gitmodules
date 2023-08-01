@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gmapsdistance"]
-	path = gmapsdistance
-	url = https://github.com/jlacko/gmapsdistance
 [submodule "RCzechia"]
 	path = RCzechia
 	url = https://github.com/jlacko/rczechia
+[submodule "gmapsdistance"]
+	path = gmapsdistance
+	url = https://github.com/jlacko/gmapsdistance
